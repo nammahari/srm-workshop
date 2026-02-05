@@ -1,0 +1,11 @@
+# BioTech For Life 💖
+
+## Semester 1
+ - Communicative English
+ - Calculus and Linear Algebra
+ - Physics: Electromagnetic Theory, Quantum Mechanics, Waves and Optics
+ - Engineering Graphics and Design
+ - Electrical and Electronics Engineering
+
+
+For More information click [Biotech PDF](https://webstor.srmist.edu.in/web_assets/downloads/2025/biotechnology-curriculum-2021.pdf)
