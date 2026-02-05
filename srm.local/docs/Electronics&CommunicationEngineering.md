@@ -37,4 +37,36 @@
 **Total Credits: 26**
 
 ---
+### **Semester 3**
+
+| Course Code | Course Title                                                         | Offered By (Dept.)          | Credits |
+| ----------- | -------------------------------------------------------------------- | --------------------------- | ------- |
+| 21LEH101T   | Transforms and Boundary Value Problem                                              | English & Foreign Languages | 3       |
+| 21MAB101T   | Social Engineering                                                   | Mathematics                 | 4       |
+| 21PYB101J   | Computer Oraganization and Architecture | Physics                                         | 5       |
+| 21MES102L   | Solid State Devices                                                  | Mechanical Engineering      | 2       |
+| 21EES101T   | Electrical and Electronics Engineering                               | Electrical & Electronics    | 4       |
+| 21AUS101L   | Digital Logic Design                                                 | Automobile Engineering      | 1       |
+| 21CYM101T   | Environmental Science                                                | Chemistry                   | 0       |
+| 21PDM101L   | Electromagnetic Theory and Interference                              | Career Development          | 0       |
+| 21LEM101T   | Devices and Digital IC Laboratory                                    | Liberal Education           | 0       |
+
+**Total Credits: 19**
+
+---
+
+### **Semester 4**
+
+| Course Code             | Course Title                                                             | Offered By (Dept.)          | Credits |
+| ----------------------- | ------------------------------------------------------------------------ | --------------------------- | ------- |
+| 21LEH102T–108T          |  Probability and Stochastic Processes| English & Foreign Languages | 3       |
+| 21GNH101J               | Analog and Linear Electronic Circuits                                             | General Engineering         | 2       |
+| 21MAB102T               | Advanced Calculus and Complex Analysis                                   | Mathematics                 | 4       |
+| 21CYB101J               |  Analog and Linear Electronic Circuits                                                         | Chemistry                   | 5       |
+| 21BTB103T               | Biology                                                                  | Biotechnology               | 2       |
+| 21CSS101J               | Artificial Intelligence                                         | Computer Science            | 4       |
+
+
+**Total Credits: 26**
+
 
