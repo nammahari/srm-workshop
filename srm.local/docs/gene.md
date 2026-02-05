@@ -9,3 +9,14 @@
 * Environmental Science
 * Professional Skills and Practices
 * Constitution of India 
+
+## Semester Two
+### Course Offered
+* Communicative German
+* Calculus and Linear Algebra
+* chemistry  
+* Engineering Graphics and Design
+* Electrical and Electronics Engineering
+* Environmental Science
+* Professional Skills and Practices
+* Constitution of India 
