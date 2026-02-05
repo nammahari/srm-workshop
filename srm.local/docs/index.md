@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+# Welcome to Git Workshop
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Make your first contribution!
 
-## Commands
+For [Github](https://github.com/nammahari/srm-workshop.git)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+For the Site [ Website ](https://nammahari.github.io/srm-workshop)
 
-## Project layout
+## For Contact
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Telegram : [t.me/nammahari](https://t.me/nammahari)
+- Mail : hari@mahathaan.com / hari@fossuinted ( not active in social , so better to write a mail or ping in tele )
+- Linkedin : [Linkedin](https://linkedin.com/in/nammahari)
+
+
+## FOSS United & Chennai Chapter
+
+- FOSS United : [FOSS United Web ](https://fossunited.org)
+- FORUM FOSS United : [ Forum ] (https://forum.fossunited.org)
+- FOSS United Chennai : [Tele Group](https://t.me/fossunitedchennai) /  [FOSS United Chennai Web](https://fossunited.org/c/chennai)
+- [Tamilnadu.tech](https://tamilnadu.tech) / [Podu.pics](https://podu.pics)
+
+Best,
+
+Hari
