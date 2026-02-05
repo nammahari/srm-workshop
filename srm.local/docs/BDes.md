@@ -3,6 +3,12 @@
 ## Semester one
 
 Courses Offered:
-* Introduction of 2D Graphics
-* Sciograpy
-* Basics of Perspectives
+* INTERIOR DEISGN 2D AND 3D GRAPHICS
+* HISTORY OF INTERIOR DESIGN
+* FOUNDATION DESIGN STUDIO 
+
+## Semester two
+* COMPUTER STUDIO -I
+* MATERIALS, CONSTRUCTION AND FINISHES
+* INTERIOR DEISGN STUDIO – I
+  

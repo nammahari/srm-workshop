@@ -22,3 +22,26 @@
     25GNM101P Physical and Mental Health Using 
     Yoga 0 0 2 0 
     Total Learning Credits 21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## SEMESTER-III
+
+
+#### 25ARC202S Architectural Design Studio - III 0 0 14 7 
+#### 25ARC204J Climate Responsive Architecture 2 0 2 3 
+#### 25ARC206T Building Structures - I 3 0 0 3 
+#### Discipline Elective Course - IV 2 0 4 4 
+#### Discipline Elective Course - V 2 0 4 4 
+#### Total Learning Credits 21 
