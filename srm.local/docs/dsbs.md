@@ -1,1 +1,21 @@
+## Non Credit Courses (M) ##
+-Professional Skills and Practices 
+-General Aptitude 
+-Verbal Reasoning 
+-Critical and Creative Thinking Skills 
+-Analytical and Logical Thinking Skills
+-Employability Skills and Practices
+-Environmental Science 
+-Constitution of India
+-universal Human Values 
+-Professional Ethics 
+-Universal Human Values-II:
+-Understanding Harmony and Ethical
+-Human Conduct
+-Indian Art Form 
+-Indian Traditional Knowledge
+-Physical and Mental Health using Yoga
+-National Service Scheme
+-National Cadet Corps
+-National Sports Organization
 
