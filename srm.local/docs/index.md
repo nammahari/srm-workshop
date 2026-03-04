@@ -9,7 +9,7 @@ For the Site [ Website ](https://nammahari.github.io/srm-workshop)
 ## For Contact
 
 - Telegram : [t.me/nammahari](https://t.me/nammahari)
-- Mail : hari@mahathaan.com / hari@fossuinted ( not active in social , so better to write a mail or ping in tele )
+- Mail : hari@fossuinted ( not active in social , so better to write a mail or ping in tele )
 - Linkedin : [Linkedin](https://linkedin.com/in/nammahari)
 
 
